@@ -35,3 +35,5 @@ The system is tested using the following methods:
 
 + Unit testing: Unit tests are written to test the individual classes in the system.
 
+**Class Diagram**
+![TravelAgencySoftwareClassDiagram drawio (1)](https://github.com/YogeshP16/Travel_Agency_Software/assets/121794280/8d68111f-df9c-4ff5-9916-24439ce10587)
