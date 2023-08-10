@@ -2,8 +2,8 @@
 This system allows travel agencies to maintain their travel packages' itinerary and passengers.
 
 #Specification
-Each travel package has a name, a passenger capacity, an itinerary (list of destinations) and a list of it's passenger.
-Each destination has a name, and a list of the activities available at that destination.
++ Each travel package has a name, a passenger capacity, an itinerary (list of destinations) and a list of it's passenger.
++ Each destination has a name, and a list of the activities available at that destination.
 Each activity has a name, a description, a cost and a capacity. Each activity is available at one destination only.
 Each passenger can sign up for zero or more activity at each destination of the travel package.
 Once an activity has reached it's capacity no more passengers can sign up for it.
@@ -35,4 +35,3 @@ The system is tested using the following methods:
 
 Unit testing: Unit tests are written to test the individual classes in the system.
 
-![Image alt text](https://example.com/TravelAgencySoftwareClassDiagram.drawio.png)
